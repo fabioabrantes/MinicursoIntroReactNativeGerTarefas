@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gerTarefas",
+    "slug": "gerTarefas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gerTarefas"
+}
